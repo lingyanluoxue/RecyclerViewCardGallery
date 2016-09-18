@@ -7,11 +7,11 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import com.view.jameson.library.CardAdapterHelper;
+import com.view.jameson.library.util.ToastUtils;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import jameson.io.library.util.ToastUtils;
 
 /**
  * Created by jameson on 8/30/16.

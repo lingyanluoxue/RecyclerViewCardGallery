@@ -2,11 +2,11 @@ package com.view.jameson.library;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.View;
 
-import jameson.io.library.util.LogUtils;
-import jameson.io.library.util.ScreenUtil;
+import com.view.jameson.library.util.LogUtils;
+import com.view.jameson.library.util.ScreenUtil;
+
 
 /**
  * Created by jameson on 8/30/16.
